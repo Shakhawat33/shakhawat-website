@@ -311,3 +311,23 @@ footer p:nth-child(1){
     bottom: 30px;
     font-size: 15px;
 }
+
+/* mobile vieww*/
+
+@media (max-width:360px){
+    .hero{
+        width: 314%;
+    }
+    .about{
+        width: 314%;
+    }
+    .service{
+        width: 314%;
+    }
+    .contectme{
+        width: 314%;
+    }
+    footer{
+        width: 314%;
+    }
+}
